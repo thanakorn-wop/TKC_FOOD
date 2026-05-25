@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tkcfood",
+  "private_key_id": "8f98274f30fb0fd81404aeedca25932482039657",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC+QUGr6KR10bcZ\nrCtTjlqw4i4T0PiN9XP0WFZzIkLsxd7PetclUqaPLNvVenCeBr71VstUEFIdGXem\nqxJcOqYvSwQdqjZp+1Ypvwkv+EwU2BmJvaVh51n8sN9//lXoMugyk1yZMP9Op/C3\n72XSJl8Er9IyJG2nZW4AKkv2tqfz3R9xdbNgpU1t+J9YiGUBw0kYwB2qMepB8Vth\nexTyzHokb4kH/DHRo2NA8OzgZ3cWBoDELDUG9OK5rifaMWBPKsU8YJ1b2Q6vOkcp\nknEF0+p9+L3iJlXh/aE9Bnx8JNsPsaxwtd2iyWGsSgdpjBln6wfVSvmAx1zyU5ol\nZz6XT6ADAgMBAAECggEAPn3jysonHvYMDPgy4QasvlYEqYil48cgV72eY8H4tpoF\n5iOkwIMl53hmGvhVPmrb1W01az7TIfDIDuw5Iyc2h+k9iFrs9aHTOvIfW+zUXLJg\nrRAoXwClW61jNED/yb3S7C3gKAdijNz34grV6JGm+zyfL84sYGQeHhrGidqUTzKc\nnIVeZ0cnCcfsOjL50eMuK4QjgbC/TEgDHsT7DEohyOSqc5jsb32QFPIHnAJiCos9\nk8h81HdtgKfduqiazy8t0SF41Ls7/tPiFMPsHZxMwjXxr7meWmYzbz+iaJNkXGYu\nYJfrqN93Zh/cxLbf4LyuoiAw1j7vu1A5bqR8L7UBbQKBgQDvBbrpavXIWr9wM0KD\n2PO113CwiWvHheKhzzb+u2Z9HOHHSnhJ8C6h9iPOvj2vxV7XJ+cV+53q0F0V5tlB\naYs9cP96Vh3/z8unk0YOR758S1UE2NVTq8/uHopt5uLC+S1xp77HaVVizN9TnD6W\nY2L6fMOB9Hk7JupVI2d08rGLlQKBgQDLxMMAXwuCVCluxJ8mJHbVhEvH8JbXDrej\ne+UzPIQRsrPfn2ArQfTRDixBb3INtOFKkRWiRs3fxmJyN/V8dljNBZtTjXHve3X2\nR8R1Oo5AhPAbvx9hjVk7xjmVPkMlto0LZA+u3WMhCcxEqVCe2zX8Gq9s9W4XxzzO\npSglcw9XNwKBgQCweGiRYTjpnaZtrkrTkWANx2wZyrvaaYzzrkuKMs3uXV6Mhvzc\nignD5jh1sZtVpMDq1TkVz9m9veyb+P45/zSgPkdBCUfI0KApruAwNuP6XJv+oiCO\nT/GKet31WlvdW58jpJeEHs69zUitMFQ9ME+pZGfsEJVZCNhF14fQnkZbKQKBgHVJ\nKdya2GsJuldxgRFZR7UaUuwghRH//J9y/rgBCxuMuo/qklYTvrBd8gcv+Hv/MvXS\nkJs5GeLFs4B+ySP8kpxfr8nlzkDD1WAOavv22k40tmeiGJPz4frP2/EVR1z7uC9o\nRsal0xr/Ir4anrbxAh+71GFo2xeArHVdBsCXe6r9AoGBAOOhl3CHo0+iy76Ket53\n116mGzevU8rYvTm5s5WrhuOE30JQ3YV0Apr/ottc+VV5/V79aLEz2I2eJXswc3a6\nxl8vfY+MOxE4D9X/GPUTffTsF4OON7H9/dyDsAewO/1StXxhaFj5d3l6sgbt6mcR\nLMueusl+SO3wdxjTy6phK3FY\n-----END PRIVATE KEY-----\n",
+  "client_email": "tkc-food@tkcfood.iam.gserviceaccount.com",
+  "client_id": "113923931704526705207",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tkc-food%40tkcfood.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
